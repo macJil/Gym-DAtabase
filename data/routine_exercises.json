@@ -43,7 +43,18 @@
       "suggested_sets": 4,
       "suggested_reps": 8,
       "suggested_rest_seconds": 90
+    },
+    {
+      "created_at": "2025-08-11T16:18:35.349518",
+      "updated_at": "2025-08-11T16:18:35.349523",
+      "id": 5,
+      "routine_id": 1,
+      "exercise_id": 5,
+      "order_index": 4,
+      "suggested_sets": 4,
+      "suggested_reps": 8,
+      "suggested_rest_seconds": 120
     }
   ],
-  "updated_at": "2025-08-11T16:18:33.544172"
+  "updated_at": "2025-08-11T16:18:35.604759"
 }
