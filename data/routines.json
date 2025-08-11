@@ -1,0 +1,12 @@
+{
+  "routines": [
+    {
+      "created_at": "2025-08-11T16:18:24.979891",
+      "updated_at": "2025-08-11T16:18:24.979896",
+      "id": 1,
+      "name": "Toji-Inspired Gym Day",
+      "workout_type": "full_gym"
+    }
+  ],
+  "updated_at": "2025-08-11T16:18:24.979951"
+}
