@@ -7,7 +7,15 @@
       "name": "Barbell Deadlift",
       "default_rest_seconds": 180,
       "default_equipment": "full_gym"
+    },
+    {
+      "created_at": "2025-08-11T16:18:28.189944",
+      "updated_at": "2025-08-11T16:18:28.189948",
+      "id": 2,
+      "name": "Bench Press",
+      "default_rest_seconds": 150,
+      "default_equipment": "full_gym"
     }
   ],
-  "updated_at": "2025-08-11T16:18:26.058997"
+  "updated_at": "2025-08-11T16:18:28.189965"
 }
