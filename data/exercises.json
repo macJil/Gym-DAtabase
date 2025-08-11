@@ -15,7 +15,15 @@
       "name": "Bench Press",
       "default_rest_seconds": 150,
       "default_equipment": "full_gym"
+    },
+    {
+      "created_at": "2025-08-11T16:18:30.595338",
+      "updated_at": "2025-08-11T16:18:30.595341",
+      "id": 3,
+      "name": "Squat",
+      "default_rest_seconds": 180,
+      "default_equipment": "full_gym"
     }
   ],
-  "updated_at": "2025-08-11T16:18:28.189965"
+  "updated_at": "2025-08-11T16:18:30.595354"
 }
