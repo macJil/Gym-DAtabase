@@ -23,7 +23,15 @@
       "name": "Squat",
       "default_rest_seconds": 180,
       "default_equipment": "full_gym"
+    },
+    {
+      "created_at": "2025-08-11T16:18:32.539442",
+      "updated_at": "2025-08-11T16:18:32.539447",
+      "id": 4,
+      "name": "Pull-Ups",
+      "default_rest_seconds": 90,
+      "default_equipment": "full_gym"
     }
   ],
-  "updated_at": "2025-08-11T16:18:30.595354"
+  "updated_at": "2025-08-11T16:18:32.539465"
 }
