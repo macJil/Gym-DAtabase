@@ -39,7 +39,15 @@
       "name": "Overhead Press",
       "default_rest_seconds": 120,
       "default_equipment": "full_gym"
+    },
+    {
+      "created_at": "2025-08-11T16:18:36.633404",
+      "updated_at": "2025-08-11T16:18:36.633408",
+      "id": 6,
+      "name": "Farmer Walk",
+      "default_rest_seconds": 90,
+      "default_equipment": "full_gym"
     }
   ],
-  "updated_at": "2025-08-11T16:18:34.648988"
+  "updated_at": "2025-08-11T16:18:36.633423"
 }
