@@ -1,0 +1,12 @@
+[
+  {
+    "created_at": "2025-08-12T10:32:08.533896",
+    "updated_at": "2025-08-12T10:32:08.533901",
+    "id": 1,
+    "user_id": 1,
+    "workouts_per_week": 4,
+    "start_date": "2025-08-12",
+    "end_date": null,
+    "is_active": true
+  }
+]
