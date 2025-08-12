@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "push",
+    "description": "Push exercises targeting chest, shoulders, and triceps",
+    "focus_areas": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "difficulty": "intermediate",
+    "created_at": "2025-08-12T01:36:42.371099",
+    "updated_at": "2025-08-12T01:36:42.371119"
+  },
+  {
+    "id": 2,
+    "name": "pull",
+    "description": "Pull exercises targeting back and biceps",
+    "focus_areas": [
+      "back",
+      "biceps",
+      "rear deltoids"
+    ],
+    "difficulty": "intermediate",
+    "created_at": "2025-08-12T01:36:42.371125",
+    "updated_at": "2025-08-12T01:36:42.371128"
+  },
+  {
+    "id": 3,
+    "name": "legs",
+    "description": "Leg exercises targeting quads, hamstrings, and glutes",
+    "focus_areas": [
+      "quads",
+      "hamstrings",
+      "glutes",
+      "calves"
+    ],
+    "difficulty": "intermediate",
+    "created_at": "2025-08-12T01:36:42.371132",
+    "updated_at": "2025-08-12T01:36:42.371136"
+  },
+  {
+    "id": 4,
+    "name": "core",
+    "description": "Core exercises targeting abs and lower back",
+    "focus_areas": [
+      "abs",
+      "obliques",
+      "lower back"
+    ],
+    "difficulty": "beginner",
+    "created_at": "2025-08-12T01:36:42.371141",
+    "updated_at": "2025-08-12T01:36:42.371144"
+  },
+  {
+    "id": 5,
+    "name": "full body",
+    "description": "Full body workout targeting all major muscle groups",
+    "focus_areas": [
+      "chest",
+      "back",
+      "legs",
+      "shoulders",
+      "arms"
+    ],
+    "difficulty": "advanced",
+    "created_at": "2025-08-12T01:36:42.371149",
+    "updated_at": "2025-08-12T01:36:42.371152"
+  }
+]
