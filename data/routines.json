@@ -1,12 +1,38 @@
-{
-  "routines": [
-    {
-      "created_at": "2025-08-11T16:18:24.979891",
-      "updated_at": "2025-08-11T16:18:24.979896",
-      "id": 1,
-      "name": "Toji-Inspired Gym Day",
-      "workout_type": "full_gym"
-    }
-  ],
-  "updated_at": "2025-08-11T16:18:24.979951"
-}
+[
+  {
+    "id": 1,
+    "name": "Toji Push Day",
+    "description": "Push workout inspired by Toji Fushiguro",
+    "workout_type": "push",
+    "equipment": "gym",
+    "difficulty": "intermediate",
+    "estimated_duration": 45,
+    "is_default": true,
+    "created_at": "2025-08-12T10:30:18.771808",
+    "updated_at": "2025-08-12T10:30:18.771819"
+  },
+  {
+    "id": 2,
+    "name": "Toji Pull Day",
+    "description": "Pull workout inspired by Toji Fushiguro",
+    "workout_type": "pull",
+    "equipment": "gym",
+    "difficulty": "intermediate",
+    "estimated_duration": 45,
+    "is_default": true,
+    "created_at": "2025-08-12T10:30:18.771825",
+    "updated_at": "2025-08-12T10:30:18.771829"
+  },
+  {
+    "id": 3,
+    "name": "Toji Leg Day",
+    "description": "Leg workout inspired by Toji Fushiguro",
+    "workout_type": "legs",
+    "equipment": "gym",
+    "difficulty": "intermediate",
+    "estimated_duration": 50,
+    "is_default": true,
+    "created_at": "2025-08-12T10:30:18.771833",
+    "updated_at": "2025-08-12T10:30:18.771835"
+  }
+]
