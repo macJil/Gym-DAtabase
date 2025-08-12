@@ -1,53 +1,98 @@
-{
-  "exercises": [
-    {
-      "created_at": "2025-08-11T16:18:26.058965",
-      "updated_at": "2025-08-11T16:18:26.058971",
-      "id": 1,
-      "name": "Barbell Deadlift",
-      "default_rest_seconds": 180,
-      "default_equipment": "full_gym"
-    },
-    {
-      "created_at": "2025-08-11T16:18:28.189944",
-      "updated_at": "2025-08-11T16:18:28.189948",
-      "id": 2,
-      "name": "Bench Press",
-      "default_rest_seconds": 150,
-      "default_equipment": "full_gym"
-    },
-    {
-      "created_at": "2025-08-11T16:18:30.595338",
-      "updated_at": "2025-08-11T16:18:30.595341",
-      "id": 3,
-      "name": "Squat",
-      "default_rest_seconds": 180,
-      "default_equipment": "full_gym"
-    },
-    {
-      "created_at": "2025-08-11T16:18:32.539442",
-      "updated_at": "2025-08-11T16:18:32.539447",
-      "id": 4,
-      "name": "Pull-Ups",
-      "default_rest_seconds": 90,
-      "default_equipment": "full_gym"
-    },
-    {
-      "created_at": "2025-08-11T16:18:34.648967",
-      "updated_at": "2025-08-11T16:18:34.648972",
-      "id": 5,
-      "name": "Overhead Press",
-      "default_rest_seconds": 120,
-      "default_equipment": "full_gym"
-    },
-    {
-      "created_at": "2025-08-11T16:18:36.633404",
-      "updated_at": "2025-08-11T16:18:36.633408",
-      "id": 6,
-      "name": "Farmer Walk",
-      "default_rest_seconds": 90,
-      "default_equipment": "full_gym"
-    }
-  ],
-  "updated_at": "2025-08-11T16:18:36.633423"
-}
+[
+  {
+    "id": 1,
+    "name": "Push-ups",
+    "category": "push",
+    "equipment": "home",
+    "description": "Classic push-up for chest and triceps",
+    "default_sets": 3,
+    "default_reps": 15,
+    "default_rest": 60,
+    "created_at": "2025-08-12T10:30:17.862609",
+    "updated_at": "2025-08-12T10:30:17.862623"
+  },
+  {
+    "id": 2,
+    "name": "Diamond Push-ups",
+    "category": "push",
+    "equipment": "home",
+    "description": "Advanced push-up variation for triceps",
+    "default_sets": 3,
+    "default_reps": 10,
+    "default_rest": 60,
+    "created_at": "2025-08-12T10:30:17.862628",
+    "updated_at": "2025-08-12T10:30:17.862630"
+  },
+  {
+    "id": 3,
+    "name": "Bench Press",
+    "category": "push",
+    "equipment": "gym",
+    "description": "Compound chest exercise",
+    "default_sets": 4,
+    "default_reps": 8,
+    "default_rest": 90,
+    "created_at": "2025-08-12T10:30:17.862632",
+    "updated_at": "2025-08-12T10:30:17.862634"
+  },
+  {
+    "id": 4,
+    "name": "Pull-ups",
+    "category": "pull",
+    "equipment": "home",
+    "description": "Upper body pulling exercise",
+    "default_sets": 3,
+    "default_reps": 8,
+    "default_rest": 90,
+    "created_at": "2025-08-12T10:30:17.862637",
+    "updated_at": "2025-08-12T10:30:17.862639"
+  },
+  {
+    "id": 5,
+    "name": "Rows",
+    "category": "pull",
+    "equipment": "gym",
+    "description": "Back strengthening exercise",
+    "default_sets": 3,
+    "default_reps": 12,
+    "default_rest": 60,
+    "created_at": "2025-08-12T10:30:17.862641",
+    "updated_at": "2025-08-12T10:30:17.862643"
+  },
+  {
+    "id": 6,
+    "name": "Squats",
+    "category": "legs",
+    "equipment": "home",
+    "description": "Basic leg exercise",
+    "default_sets": 3,
+    "default_reps": 20,
+    "default_rest": 60,
+    "created_at": "2025-08-12T10:30:17.862645",
+    "updated_at": "2025-08-12T10:30:17.862647"
+  },
+  {
+    "id": 7,
+    "name": "Lunges",
+    "category": "legs",
+    "equipment": "home",
+    "description": "Unilateral leg exercise",
+    "default_sets": 3,
+    "default_reps": 15,
+    "default_rest": 60,
+    "created_at": "2025-08-12T10:30:17.862650",
+    "updated_at": "2025-08-12T10:30:17.862652"
+  },
+  {
+    "id": 8,
+    "name": "Planks",
+    "category": "core",
+    "equipment": "home",
+    "description": "Core stability exercise",
+    "default_sets": 3,
+    "default_reps": 1,
+    "default_rest": 60,
+    "created_at": "2025-08-12T10:30:17.862654",
+    "updated_at": "2025-08-12T10:30:17.862656"
+  }
+]
